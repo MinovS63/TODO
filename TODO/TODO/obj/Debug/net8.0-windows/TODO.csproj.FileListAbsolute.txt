@@ -1,0 +1,37 @@
+C:\Users\martm\source\repos\TODO\TODO\bin\Debug\net8.0-windows\TODO.exe
+C:\Users\martm\source\repos\TODO\TODO\bin\Debug\net8.0-windows\TODO.deps.json
+C:\Users\martm\source\repos\TODO\TODO\bin\Debug\net8.0-windows\TODO.runtimeconfig.json
+C:\Users\martm\source\repos\TODO\TODO\bin\Debug\net8.0-windows\TODO.dll
+C:\Users\martm\source\repos\TODO\TODO\bin\Debug\net8.0-windows\TODO.pdb
+C:\Users\martm\source\repos\TODO\TODO\obj\Debug\net8.0-windows\TODO.csproj.GenerateResource.cache
+C:\Users\martm\source\repos\TODO\TODO\obj\Debug\net8.0-windows\TODO.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\martm\source\repos\TODO\TODO\obj\Debug\net8.0-windows\TODO.AssemblyInfoInputs.cache
+C:\Users\martm\source\repos\TODO\TODO\obj\Debug\net8.0-windows\TODO.AssemblyInfo.cs
+C:\Users\martm\source\repos\TODO\TODO\obj\Debug\net8.0-windows\TODO.csproj.CoreCompileInputs.cache
+C:\Users\martm\source\repos\TODO\TODO\obj\Debug\net8.0-windows\TODO.dll
+C:\Users\martm\source\repos\TODO\TODO\obj\Debug\net8.0-windows\refint\TODO.dll
+C:\Users\martm\source\repos\TODO\TODO\obj\Debug\net8.0-windows\TODO.pdb
+C:\Users\martm\source\repos\TODO\TODO\obj\Debug\net8.0-windows\TODO.genruntimeconfig.cache
+C:\Users\martm\source\repos\TODO\TODO\obj\Debug\net8.0-windows\ref\TODO.dll
+C:\Users\martm\source\repos\TODO\TODO\obj\Debug\net8.0-windows\TODO.Add.resources
+C:\Users\martm\source\repos\TODO\TODO\obj\Debug\net8.0-windows\TODO.Main.resources
+C:\Users\martm\source\repos\TODO\TODO\obj\Debug\net8.0-windows\TODO.View.resources
+C:\Users\martm\OneDrive\Работен плот\TODO\TODO\bin\Debug\net8.0-windows\TODO.exe
+C:\Users\martm\OneDrive\Работен плот\TODO\TODO\bin\Debug\net8.0-windows\TODO.deps.json
+C:\Users\martm\OneDrive\Работен плот\TODO\TODO\bin\Debug\net8.0-windows\TODO.runtimeconfig.json
+C:\Users\martm\OneDrive\Работен плот\TODO\TODO\bin\Debug\net8.0-windows\TODO.dll
+C:\Users\martm\OneDrive\Работен плот\TODO\TODO\bin\Debug\net8.0-windows\TODO.pdb
+C:\Users\martm\OneDrive\Работен плот\TODO\TODO\obj\Debug\net8.0-windows\TODO.Add.resources
+C:\Users\martm\OneDrive\Работен плот\TODO\TODO\obj\Debug\net8.0-windows\TODO.Main.resources
+C:\Users\martm\OneDrive\Работен плот\TODO\TODO\obj\Debug\net8.0-windows\TODO.View.resources
+C:\Users\martm\OneDrive\Работен плот\TODO\TODO\obj\Debug\net8.0-windows\TODO.csproj.GenerateResource.cache
+C:\Users\martm\OneDrive\Работен плот\TODO\TODO\obj\Debug\net8.0-windows\TODO.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\martm\OneDrive\Работен плот\TODO\TODO\obj\Debug\net8.0-windows\TODO.AssemblyInfoInputs.cache
+C:\Users\martm\OneDrive\Работен плот\TODO\TODO\obj\Debug\net8.0-windows\TODO.AssemblyInfo.cs
+C:\Users\martm\OneDrive\Работен плот\TODO\TODO\obj\Debug\net8.0-windows\TODO.csproj.CoreCompileInputs.cache
+C:\Users\martm\OneDrive\Работен плот\TODO\TODO\obj\Debug\net8.0-windows\TODO.sourcelink.json
+C:\Users\martm\OneDrive\Работен плот\TODO\TODO\obj\Debug\net8.0-windows\TODO.dll
+C:\Users\martm\OneDrive\Работен плот\TODO\TODO\obj\Debug\net8.0-windows\refint\TODO.dll
+C:\Users\martm\OneDrive\Работен плот\TODO\TODO\obj\Debug\net8.0-windows\TODO.pdb
+C:\Users\martm\OneDrive\Работен плот\TODO\TODO\obj\Debug\net8.0-windows\TODO.genruntimeconfig.cache
+C:\Users\martm\OneDrive\Работен плот\TODO\TODO\obj\Debug\net8.0-windows\ref\TODO.dll
