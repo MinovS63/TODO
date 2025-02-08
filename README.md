@@ -1,7 +1,7 @@
 # TODO
 # WinForms To-Do App
 
-A simple WinForms To-Do application that lets you add, delete, and mark tasks as completed.
+A simple WinForms To-Do application that lets you add and delete tasks.
 
 ## How to Run:
 
